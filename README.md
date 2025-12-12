@@ -89,5 +89,5 @@ Each browser tab gets a unique session ID so conversation context persists as yo
 - CORS is configured for `http://localhost:3000` by default; adjust in `server/main.py` if needed.
 - If the backend cannot reach OpenAI, the frontend shows a friendly error message.
 
-Completed
+Completed Fix
 
