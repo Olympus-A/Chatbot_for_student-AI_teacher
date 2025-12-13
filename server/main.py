@@ -12,7 +12,7 @@ from schema import Prompt, Conversation, ConversationMessage
 import uuid
 from datetime import datetime
 
-# Load environment variables  1
+# Load environment variables  2
 load_dotenv()
 
 # Setup logging
